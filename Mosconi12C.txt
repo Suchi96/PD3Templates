@@ -1,0 +1,45 @@
+     "equippableData": "SBZRangedWeaponData'/Game/Gameplay/Weapons/Shotgun/Mosconi12C/DA_WeaponData_Shotgun_Mosconi12C_xdotx_DA_WeaponData_Shotgun_Mosconi12C'",
+        "modDataMap": {
+      
+         "SBZModularPartSlot'/Game/Weapons/WeaponPartSlots/SLOT_Barrel_xdotx_SLOT_Barrel'": {
+          "config": "None",
+          "part": "SBZWeaponPartDataAsset'/Game/Gameplay/WeaponParts/Attachments/BarrelExt/ObeliskSilencer/WPD_BarrelExt_ObeliskSilencer_xdotx_WPD_BarrelExt_ObeliskSilencer'"
+         },
+         "SBZModularPartSlot'/Game/Weapons/WeaponPartSlots/SLOT_Body_xdotx_SLOT_Body'": {
+          "config": "None",
+          "part": "SBZWeaponPartDataAsset'/Game/Gameplay/WeaponParts/Attachments/BarrelExt/ObeliskSilencer/WPD_BarrelExt_ObeliskSilencer_xdotx_WPD_BarrelExt_ObeliskSilencer'"
+         },
+    "SBZModularPartSlot'/Game/Weapons/WeaponPartSlots/SLOT_ForeGrip_xdotx_SLOT_ForeGrip'": {
+          "config": "None",
+          "part": "SBZWeaponPartDataAsset'/Game/Gameplay/WeaponParts/Attachments/BarrelExt/ObeliskSilencer/WPD_BarrelExt_ObeliskSilencer_xdotx_WPD_BarrelExt_ObeliskSilencer'"
+         },
+         "SBZModularPartSlot'/Game/Weapons/WeaponPartSlots/SLOT_FrontSight_xdotx_SLOT_FrontSight'": {
+          "config": "None",
+          "part": "SBZWeaponPartDataAsset'/Game/Gameplay/WeaponParts/Attachments/BarrelExt/ObeliskSilencer/WPD_BarrelExt_ObeliskSilencer_xdotx_WPD_BarrelExt_ObeliskSilencer'"
+         },
+	  "SBZModularPartSlot'/Game/Weapons/WeaponPartSlots/SLOT_RearSight_xdotx_SLOT_RearSight'": {
+          "config": "None",
+          "part": "SBZWeaponPartDataAsset'/Game/Gameplay/WeaponParts/Attachments/BarrelExt/ObeliskSilencer/WPD_BarrelExt_ObeliskSilencer_xdotx_WPD_BarrelExt_ObeliskSilencer'"
+         },
+  "SBZModularPartSlot'/Game/Weapons/WeaponPartSlots/SLOT_MagRelease_xdotx_SLOT_MagRelease'": {
+          "config": "None",
+          "part": "SBZWeaponPartDataAsset'/Game/Gameplay/WeaponParts/Attachments/BarrelExt/ObeliskSilencer/WPD_BarrelExt_ObeliskSilencer_xdotx_WPD_BarrelExt_ObeliskSilencer'"
+         },	
+         "SBZModularPartSlot'/Game/Weapons/WeaponPartSlots/SLOT_Sight_xdotx_SLOT_Sight'": {
+          "config": "None",
+          "part": "SBZWeaponPartDataAsset'/Game/Gameplay/WeaponParts/Attachments/BarrelExt/ObeliskSilencer/WPD_BarrelExt_ObeliskSilencer_xdotx_WPD_BarrelExt_ObeliskSilencer'"
+         },
+	  "SBZModularPartSlot'/Game/Weapons/WeaponPartSlots/SLOT_SightMount_xdotx_SLOT_SightMount'": {
+          "config": "None",
+          "part": "SBZWeaponPartDataAsset'/Game/Gameplay/WeaponParts/Attachments/BarrelExt/ObeliskSilencer/WPD_BarrelExt_ObeliskSilencer_xdotx_WPD_BarrelExt_ObeliskSilencer'"
+         },	
+ 	 "SBZModularPartSlot'/Game/Weapons/WeaponPartSlots/SLOT_Stock_xdotx_SLOT_Stock'": {
+          "config": "None",
+          "part": "SBZWeaponPartDataAsset'/Game/Gameplay/WeaponParts/Attachments/BarrelExt/ObeliskSilencer/WPD_BarrelExt_ObeliskSilencer_xdotx_WPD_BarrelExt_ObeliskSilencer'"
+         },
+ 	  "SBZModularPartSlot'/Game/Weapons/WeaponPartSlots/SLOT_VerticalGrip_xdotx_SLOT_VerticalGrip'": {
+          "config": "None",
+          "part": "SBZWeaponPartDataAsset'/Game/Gameplay/WeaponParts/Attachments/BarrelExt/ObeliskSilencer/WPD_BarrelExt_ObeliskSilencer_xdotx_WPD_BarrelExt_ObeliskSilencer'"
+         }
+        }
+       },	
