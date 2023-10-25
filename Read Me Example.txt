@@ -1,0 +1,70 @@
+heres a modded S40 pistol as example that has attachments, sticker, charm, and pattern
+every slot_ is filled with:
+"SBZWeaponPartDataAsset'/Game/Gameplay/WeaponParts/Attachments/BarrelExt/ObeliskSilencer/WPD_BarrelExt_ObeliskSilencer_xdotx_WPD_BarrelExt_ObeliskSilencer'"
+just replace this with anything you want, i have examples in the Attachment.txt file
+
+
+
+					"weaponInSlotEntitlementId": "4B36914ABA5C4ABF9C11FF3532B483AA",
+					"weaponInSlotAccelByteItemId": "608E2ED558594F4097694D8C8ABEDF8B",
+					"weaponInSlotAccelByteItemSku": "pd3_wpn_pistol_s40",
+					"weaponInventorySlotType": "Configurable",
+					"weaponConfigInventorySlot":  
+					{
+						"equippableConfig":
+						{
+when pasting code you want to start here --->	"equippableData": "SBZRangedWeaponData'/Game/Gameplay/Weapons/Pistol/S40/DA_WeaponData_Pistol_S40_xdotx_DA_WeaponData_Pistol_S40'",
+							"modDataMap":
+							{
+								"SBZCosmeticsPartSlot'/Game/Gameplay/Cosmetics/CosmeticsPartSlots/SLOT_WeaponPattern_xdotx_SLOT_WeaponPattern'":
+								{
+									"part": "SBZWeaponPatternData'/Game/Gameplay/Cosmetics/Weapon/DA_WeaponPattern_13_xdotx_DA_WeaponPattern_13'",
+									"config":
+									{
+										"_ClassName": "SBZWeaponPatternDataConfig",
+										"patternSprayCans": [
+											"SBZSprayCanData'/Game/Gameplay/Cosmetics/SprayCans/DA_SprayCan51_xdotx_DA_SprayCan51'",
+											"SBZSprayCanData'/Game/Gameplay/Cosmetics/SprayCans/DA_SprayCan_Texture33_xdotx_DA_SprayCan_Texture33'",
+											"SBZSprayCanData'/Game/Gameplay/Cosmetics/SprayCans/DA_SprayCan_TestColor4_xdotx_DA_SprayCan_TestColor4'",
+											"SBZSprayCanData'/Game/Gameplay/Cosmetics/SprayCans/DA_SprayCan_Texture32_xdotx_DA_SprayCan_Texture32'"
+										],
+										"nativeClass": "Class'/Script/Starbreeze_xdotx_SBZWeaponPatternDataConfig'"
+									}
+								},
+								"SBZModularPartSlot'/Game/Weapons/WeaponPartSlots/SLOT_BarrelExtension_xdotx_SLOT_BarrelExtension'":
+								{
+									"part": "SBZWeaponPartDataAsset'/Game/Gameplay/WeaponParts/Attachments/BarrelExt/12GObelisk/WPD_BarrelExt_12GObelisk_xdotx_WPD_BarrelExt_12GObelisk'",
+									"config": "None"
+								},
+								"SBZModularPartSlot'/Game/Weapons/WeaponPartSlots/SLOT_Mag_xdotx_SLOT_Mag'":
+								{
+									"part": "SBZWeaponPartDataAsset'/Game/Gameplay/WeaponParts/AssaultRifle/NWB9/WPD_NWB9_Mag_Extended_xdotx_WPD_NWB9_Mag_Extended'",
+									"config": "None"
+								},
+								"SBZWeaponCharmSlot'/Game/Gameplay/Cosmetics/CosmeticsPartSlots/SLOT_WeaponCharm_xdotx_SLOT_WeaponCharm'":
+								{
+									"part": "SBZWeaponCharmData'/Game/Gameplay/Cosmetics/Weapon/DA_WeaponCharm_PD2Promo6_xdotx_DA_WeaponCharm_PD2Promo6'",
+									"config": "None"
+								},
+								"SBZWeaponGlobalPaintSlot'/Game/Gameplay/Cosmetics/CosmeticsPartSlots/SLOT_WeaponGlobalPaint_xdotx_SLOT_WeaponGlobalPaint'":
+								{
+									"part": "SBZSprayCanData'/Game/Gameplay/Cosmetics/SprayCans/DA_SprayCan52_xdotx_DA_SprayCan52'",
+									"config": "None"
+								},
+								"SBZWeaponStickerSlot'/Game/Gameplay/Cosmetics/CosmeticsPartSlots/SLOT_WeaponStickerPosition0_xdotx_SLOT_WeaponStickerPosition0'":
+								{
+									"part": "SBZWeaponStickerData'/Game/Gameplay/Cosmetics/Weapon/DA_WeaponSticker_Nebula01_xdotx_DA_WeaponSticker_Nebula01'",
+									"config": "None"
+								}
+							}
+						}, <---- and end here, ignore the stuff below
+
+
+
+						"payedWeaponPartAttachmentItemIdArray": []
+					},
+					"weaponPresetConfigInventorySlot":
+					{
+						"weaponPresetConfigData": "None"
+					},
+					"itemInventorySlotAvailability": "Taken",
